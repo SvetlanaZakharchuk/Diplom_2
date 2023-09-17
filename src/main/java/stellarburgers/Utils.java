@@ -1,4 +1,4 @@
-package samokat;
+package stellarburgers;
 
 import java.util.Random;
 
